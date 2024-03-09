@@ -1,5 +1,5 @@
 using System;
-public sealed class Weeks_Day : IPrint
+public sealed class WeeksDay : IPrint
 {
  private string[] mass = {"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday"};
  public void PrintMass()

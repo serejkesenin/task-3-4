@@ -20,7 +20,7 @@ class Program
      mass2[2] = new Stupenchatiy<bool>(3, getItem.GetNewBoolItem);
     
     
-     Weeks_Day masss = new Weeks_Day();
+     WeeksDay masss = new WeeksDay();
   ///   masss.PrintMass();
 
     IPrint[] prints = new IPrint [] {mass[0],mass[1],mass[2],mass1[0],mass1[1],mass1[2],mass2[0],mass2[1],mass2[2],masss};
